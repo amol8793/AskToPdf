@@ -1,0 +1,7 @@
+This is a sample document about artificial intelligence.
+
+Artificial Intelligence (AI) is a branch of computer science that aims to create intelligent machines. These machines can think, learn, and solve problems like humans.
+
+Machine Learning is a subset of AI that focuses on the ability of machines to receive data and learn for themselves without being explicitly programmed.
+
+Deep Learning is a subset of machine learning that uses neural networks with multiple layers to analyze data.
